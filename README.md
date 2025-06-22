@@ -5,7 +5,7 @@
 2.在該目錄下右鍵，開啟Konsole指令台。  
 3.輸入指令
 ```
-Chmod +x wine_dll_installer_gui.sh
+chmox +x /你的檔案位置/wine_dll_installer_gui.sh
 ```
 4.把這個".sh"加入到非Steam遊戲，然後再執行。  
 
