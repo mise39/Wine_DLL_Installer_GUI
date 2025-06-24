@@ -12,8 +12,8 @@ chmox +x /你的檔案位置/wine_dll_installer_gui.sh
 4.把這個".sh"加入到非Steam遊戲，然後再執行。  
 
 ## 詳細/示範影片:  
-https://www.youtube.com/watch?v=L_7x6o2Gjdk
-
+[1.0教學影片](https://www.youtube.com/watch?v=L_7x6o2Gjdk)
+[2.0示範影片](https://www.youtube.com/watch?v=sc6kIWUgoF4)
 ## *關於Chmod not found的解決方法  
 請先konsole輸入
 ```
