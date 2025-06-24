@@ -3,9 +3,9 @@
 不帶網絡功能，無需任何Python額外插件。  
 
 ## 使用方法:
-1.先下載.sh和.py檔案  
-2.開啟Konsole指令台。  
-3.輸入指令
+1. 先下載.sh和.py檔案  
+2. 開啟Konsole指令台。  
+3. 輸入指令
 ```
 chmox +x /你的檔案位置/wine_dll_installer_gui.sh
 ```
